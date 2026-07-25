@@ -4031,4 +4031,4 @@ If you find this repository helpful, consider giving it a ⭐ to support the pro
 
 This project is licensed under the **MIT License**.
 
-See the [LICENSE](leetcode-solution/blob/main/LICENSE) file for the complete license text.
+See the [LICENSE](https://github.com/royaldeveloper-rajgiri/leetcode-solution/blob/main/LICENSE) file for the complete license text.
