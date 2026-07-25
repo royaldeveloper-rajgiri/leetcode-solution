@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fleetcode.com%2Fcontest%2F&ved=0CBYQjRxqFwoTCOCOhPew7pUDFQAAAAAdAAAAABB_&opi=89978449" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
+  <img src="https://leetcode.com/_next/static/images/Cup-d223fc8ae094b40ae00265a1f99b489f.png" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
 </p>
 
 <h1 align="center">🚀 LeetCode Solutions</h1>
