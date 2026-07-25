@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/royaldeveloper-rajgiri/leetcode-solution/main/assets/banner.png" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
+  <img src="https://avatars.githubusercontent.com/u/192896198?v=4&size=64" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
 </p>
 
 <h1 align="center">🚀 LeetCode Solutions</h1>
