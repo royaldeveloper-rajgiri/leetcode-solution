@@ -93,13 +93,58 @@ tags:
 #### Python3
 
 ```python
+   class Solution:
+    def minDamage(self, power: int, damage: List[int], health: List[int]) -> int:
 
+        total_damage, damage_per_sec = 0, sum(damage)
+
+        secs = map(lambda x: ceil(x/power), health)         # <-- 1)
+
+        order = sorted(zip(damage, secs), 
+                      key = lambda x: -x[0] / x[1])         # <-- 2)
+        
+        for enemy_damage, secs_to_kill in order:            # <-- 3)
+            
+            total_damage+= secs_to_kill * damage_per_sec
+            damage_per_sec-= enemy_damage
+
+        return total_damage                                 # <-- 4)
 ```
 
 #### Java
 
 ```java
-
+   class Solution {
+    public long minDamage(int power, int[] damage, int[] health) {
+        int [] time=new int [damage.length];
+        int sum=0;
+        for(int i=0;i<damage.length;i++){
+            float apple=(float)health[i]/power;
+            time[i]=(int)Math.ceil(apple);
+            sum+=damage[i];
+        }
+        PriorityQueue<Pair> pq=new PriorityQueue<>((a,b) -> Float.compare(b.dps,a.dps));
+        for(int i=0;i<damage.length;i++){
+            pq.add(new Pair((float)damage[i]/time[i],i));
+        }
+        long ans=0;
+        while(!pq.isEmpty()){
+            Pair p=pq.remove();
+            ans+=(long)sum*time[p.index];
+            sum-=damage[p.index];
+        }
+        return ans;
+    }
+    
+}
+class Pair{
+        float dps;
+        int index;
+        public Pair(float dps,int index){
+            this.dps=dps;
+            this.index=index;
+        }
+    }
 ```
 
 #### C++
