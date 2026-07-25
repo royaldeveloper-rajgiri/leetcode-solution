@@ -330,17 +330,32 @@ Press <kbd>Control</kbd> + <kbd>F</kbd>(or <kbd>Command</kbd> + <kbd>F</kbd> on 
 | 3808 | [Find Emotionally Consistent Users](/solution/3800-3899/3808.Find%20Emotionally%20Consistent%20Users/README_EN.md)                                                                           |            | Medium     |        |
 | 3832 | [Find Users with Persistent Behavior Patterns](/solution/3800-3899/3832.Find%20Users%20with%20Persistent%20Behavior%20Patterns/README_EN.md)                                                 |            | Hard       |        |
 
-## Copyright
+## 📜 Copyright
 
-The copyright of this project belongs to [Doocs](https://github.com/doocs) community. For commercial reprints, please contact [@yanglbme](mailto:contact@yanglibin.info) for authorization. For non-commercial reprints, please indicate the source.
+© 2026 Royal Raj Giri. All rights reserved.
 
-## Contact Us
+Unless otherwise stated, all source code, documentation, explanations, and original content in this repository are created and maintained by **Royal Raj Giri**.
 
-We welcome everyone to add @yanglbme's personal WeChat (WeChat ID: YLB0109), with the note "leetcode". In the future, we will create algorithm and technology related discussion groups, where we can learn and share experiences together, and make progress together.
+This repository is intended for educational and learning purposes. If you use or reference any part of this project, appropriate attribution is appreciated.
 
-| <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme-en.png" width="260px" align="left"/> |
-| --------------------------------------------------------------------------------------------------------------------------------- |
+---
 
+## 🤝 Contact
+
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out.
+
+- **GitHub:** https://github.com/royaldeveloper-rajgiri
+- **Email:** rajgiriindia@gmail.com
+
+If you find this repository helpful, consider giving it a ⭐ to support the project.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the complete license text.
 ## License
 
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
