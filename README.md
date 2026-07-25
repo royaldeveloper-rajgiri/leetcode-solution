@@ -42,8 +42,6 @@ https://leetcode.doocs.org/en
 
 - [LeetCode](/solution/README_EN.md)
 - [Past Contests](/solution/CONTEST_README_EN.md)
-- [LCOF: Coding Interviews, 2nd Edition](/lcof/README_EN.md)
-- [LCCI: Cracking the Coding Interview, 6th Edition](/lcci/README_EN.md)
 
 ## JavaScript & Database Practice
 
