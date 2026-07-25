@@ -1,6 +1,38 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/royaldeveloper-rajgiri/leetcode-solution/main/assets/banner.png" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
+</p>
+
+<h1 align="center">🚀 LeetCode Solutions</h1>
+
+<p align="center">
+  A comprehensive collection of optimized LeetCode solutions with detailed explanations, multiple approaches, and clean code implementations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/royaldeveloper-rajgiri/leetcode-solution">
+    <img src="https://img.shields.io/github/stars/royaldeveloper-rajgiri/leetcode-solution?style=for-the-badge&logo=github" alt="GitHub Stars">
+  </a>
+  <a href="https://github.com/royaldeveloper-rajgiri/leetcode-solution/network/members">
+    <img src="https://img.shields.io/github/forks/royaldeveloper-rajgiri/leetcode-solution?style=for-the-badge&logo=github" alt="Forks">
+  </a>
+  <a href="https://github.com/royaldeveloper-rajgiri/leetcode-solution/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/royaldeveloper-rajgiri/leetcode-solution?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://github.com/royaldeveloper-rajgiri/leetcode-solution/issues">
+    <img src="https://img.shields.io/github/issues/royaldeveloper-rajgiri/leetcode-solution?style=for-the-badge" alt="Issues">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=flat-square">
+  <img src="https://img.shields.io/badge/Problems-2200%2B-success?style=flat-square">
+  <img src="https://img.shields.io/badge/Difficulty-Easy%20%7C%20Medium%20%7C%20Hard-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/Maintained-Yes-brightgreen?style=flat-square">
+</p>
+
 ## Introduction
 
-This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview (6th Edition)", etc. All solutions are implemented in multiple programming languages, including but not limited to: Java, Python, C++, Go, TypeScript, Rust. We are working hard to update, welcome to Star 🌟 and follow [this project](https://github.com/doocs/leetcode) to get the latest updates.
+This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview (6th Edition)", etc. All solutions are implemented in multiple programming languages, including but not limited to: Java, Python, C++, Go, TypeScript, Rust. We are working hard to update, welcome to Star 🌟 and follow [this project](https://github.com/) to get the latest updates.
 
 [中文文档](/README.md)
 
