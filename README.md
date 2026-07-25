@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/192896198?v=4&size=64" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
+  <img src="https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fgithub.com%2Fdoocs%2Fleetcode%2Fblob%2Fmain%2FREADME_EN.md&ved=0CBYQjRxqFwoTCOCOhPew7pUDFQAAAAAdAAAAABBp&opi=89978449" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
 </p>
 
 <h1 align="center">🚀 LeetCode Solutions</h1>
