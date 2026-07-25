@@ -32,9 +32,7 @@
 
 ## Introduction
 
-This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview (6th Edition)", etc. All solutions are implemented in multiple programming languages, including but not limited to: Java, Python, C++, Go, TypeScript, Rust. We are working hard to update, welcome to Star 🌟 and follow [this project](https://github.com/) to get the latest updates.
-
-[中文文档](/README.md)
+This project contains solutions for problems from LeetCode, "Coding Interviews (2nd Edition)", "Coding Interviews (Special Edition)", "Cracking the Coding Interview (6th Edition)", etc. All solutions are implemented in multiple programming languages, including but not limited to: Java, Python, C++, Go, TypeScript, Rust. We are working hard to update, welcome to Star 🌟 and follow [this project](https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main) to get the latest updates.
 
 ## Site
 
