@@ -4332,3 +4332,30 @@ For top 10 users (excluding LCCN users), your LeetCode ID will be colored orange
 - [0831. Masking Personal Information](/solution/0800-0899/0831.Masking%20Personal%20Information/README_EN.md)
 - [0829. Consecutive Numbers Sum](/solution/0800-0899/0829.Consecutive%20Numbers%20Sum/README_EN.md)
 - [0828. Count Unique Characters of All Substrings of a Given String](/solution/0800-0899/0828.Count%20Unique%20Characters%20of%20All%20Substrings%20of%20a%20Given%20String/README_EN.md)
+
+## 📜 Copyright
+
+© 2026 Royal Raj Giri. All rights reserved.
+
+Unless otherwise stated, all source code, documentation, explanations, and original content in this repository are created and maintained by **Royal Raj Giri**.
+
+This repository is intended for educational and learning purposes. If you use or reference any part of this project, appropriate attribution is appreciated.
+
+---
+
+## 🤝 Contact
+
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out.
+
+- **GitHub:** https://github.com/royaldeveloper-rajgiri
+- **Email:** rajgiriindia@gmail.com
+
+If you find this repository helpful, consider giving it a ⭐ to support the project.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+See the [LICENSE](LICENSE) file for the complete license text.
