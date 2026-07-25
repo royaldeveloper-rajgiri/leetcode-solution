@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3991.Sort%20Array%20Using%20Prefix%20Reversals/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3991.Sort%20Array%20Using%20Prefix%20Reversals/README.md
 ---
 
 <!-- problem:start -->

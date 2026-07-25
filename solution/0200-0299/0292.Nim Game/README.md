@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0200-0299/0292.Nim%20Game/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0200-0299/0292.Nim%20Game/README.md
 tags:
     - 脑筋急转弯
     - 数学

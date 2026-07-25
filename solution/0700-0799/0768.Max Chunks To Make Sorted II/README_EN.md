@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0700-0799/0768.Max%20Chunks%20To%20Make%20Sorted%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0700-0799/0768.Max%20Chunks%20To%20Make%20Sorted%20II/README_EN.md
 tags:
     - Stack
     - Greedy

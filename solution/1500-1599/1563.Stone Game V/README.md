@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1500-1599/1563.Stone%20Game%20V/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1500-1599/1563.Stone%20Game%20V/README.md
 rating: 2087
 source: 第 203 场周赛 Q4
 tags:

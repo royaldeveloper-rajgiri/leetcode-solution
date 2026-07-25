@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3860.Unique%20Email%20Groups/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3860.Unique%20Email%20Groups/README_EN.md
 tags:
     - Array
     - Hash Table

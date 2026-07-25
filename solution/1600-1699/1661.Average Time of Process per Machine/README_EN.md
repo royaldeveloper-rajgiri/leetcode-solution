@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1600-1699/1661.Average%20Time%20of%20Process%20per%20Machine/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1600-1699/1661.Average%20Time%20of%20Process%20per%20Machine/README_EN.md
 tags:
     - Database
 ---

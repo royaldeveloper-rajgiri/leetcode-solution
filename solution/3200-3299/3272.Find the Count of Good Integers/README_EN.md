@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3272.Find%20the%20Count%20of%20Good%20Integers/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3272.Find%20the%20Count%20of%20Good%20Integers/README_EN.md
 rating: 2382
 source: Biweekly Contest 138 Q3
 tags:

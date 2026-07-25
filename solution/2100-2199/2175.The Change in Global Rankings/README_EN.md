@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2100-2199/2175.The%20Change%20in%20Global%20Rankings/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2100-2199/2175.The%20Change%20in%20Global%20Rankings/README_EN.md
 tags:
     - Database
 ---

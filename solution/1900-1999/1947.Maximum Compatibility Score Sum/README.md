@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1900-1999/1947.Maximum%20Compatibility%20Score%20Sum/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1900-1999/1947.Maximum%20Compatibility%20Score%20Sum/README.md
 rating: 1704
 source: 第 251 场周赛 Q3
 tags:

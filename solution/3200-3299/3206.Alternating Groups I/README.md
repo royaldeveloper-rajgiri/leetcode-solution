@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3206.Alternating%20Groups%20I/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3206.Alternating%20Groups%20I/README.md
 rating: 1223
 source: 第 134 场双周赛 Q1
 tags:

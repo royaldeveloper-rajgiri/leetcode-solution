@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3300-3399/3316.Find%20Maximum%20Removals%20From%20Source%20String/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3300-3399/3316.Find%20Maximum%20Removals%20From%20Source%20String/README_EN.md
 rating: 2062
 source: Biweekly Contest 141 Q3
 tags:

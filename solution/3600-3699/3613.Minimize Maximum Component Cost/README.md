@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3613.Minimize%20Maximum%20Component%20Cost/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3613.Minimize%20Maximum%20Component%20Cost/README.md
 rating: 1641
 source: 第 458 场周赛 Q2
 tags:

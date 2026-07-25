@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2300-2399/2307.Check%20for%20Contradictions%20in%20Equations/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2300-2399/2307.Check%20for%20Contradictions%20in%20Equations/README.md
 tags:
     - 深度优先搜索
     - 并查集

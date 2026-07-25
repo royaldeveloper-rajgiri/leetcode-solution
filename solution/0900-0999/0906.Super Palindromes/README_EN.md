@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0900-0999/0906.Super%20Palindromes/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0900-0999/0906.Super%20Palindromes/README_EN.md
 tags:
     - Math
     - String

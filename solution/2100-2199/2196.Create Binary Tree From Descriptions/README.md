@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2100-2199/2196.Create%20Binary%20Tree%20From%20Descriptions/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2100-2199/2196.Create%20Binary%20Tree%20From%20Descriptions/README.md
 rating: 1643
 source: 第 283 场周赛 Q3
 tags:

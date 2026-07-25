@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2300-2399/2362.Generate%20the%20Invoice/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2300-2399/2362.Generate%20the%20Invoice/README.md
 tags:
     - 数据库
 ---

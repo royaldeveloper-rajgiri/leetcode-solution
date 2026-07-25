@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3882.Minimum%20XOR%20Path%20in%20a%20Grid/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3882.Minimum%20XOR%20Path%20in%20a%20Grid/README_EN.md
 rating: 1770
 source: Biweekly Contest 179 Q3
 tags:

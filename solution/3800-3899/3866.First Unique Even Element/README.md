@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3866.First%20Unique%20Even%20Element/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3866.First%20Unique%20Even%20Element/README.md
 rating: 1209
 source: 第 178 场双周赛 Q1
 tags:

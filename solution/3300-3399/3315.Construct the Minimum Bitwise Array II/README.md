@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3300-3399/3315.Construct%20the%20Minimum%20Bitwise%20Array%20II/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3300-3399/3315.Construct%20the%20Minimum%20Bitwise%20Array%20II/README.md
 rating: 1714
 source: 第 141 场双周赛 Q2
 tags:

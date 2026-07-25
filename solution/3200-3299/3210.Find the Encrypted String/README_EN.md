@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3210.Find%20the%20Encrypted%20String/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3210.Find%20the%20Encrypted%20String/README_EN.md
 rating: 1179
 source: Weekly Contest 405 Q1
 tags:

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1900-1999/1906.Minimum%20Absolute%20Difference%20Queries/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1900-1999/1906.Minimum%20Absolute%20Difference%20Queries/README_EN.md
 rating: 2146
 source: Weekly Contest 246 Q4
 tags:

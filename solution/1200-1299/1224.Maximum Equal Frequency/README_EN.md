@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1200-1299/1224.Maximum%20Equal%20Frequency/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1200-1299/1224.Maximum%20Equal%20Frequency/README_EN.md
 rating: 2050
 source: Weekly Contest 158 Q4
 tags:

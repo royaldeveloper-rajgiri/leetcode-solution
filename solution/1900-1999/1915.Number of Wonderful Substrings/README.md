@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1900-1999/1915.Number%20of%20Wonderful%20Substrings/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1900-1999/1915.Number%20of%20Wonderful%20Substrings/README.md
 rating: 2234
 source: 第 247 场周赛 Q3
 tags:

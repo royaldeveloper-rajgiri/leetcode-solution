@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2500-2599/2539.Count%20the%20Number%20of%20Good%20Subsequences/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2500-2599/2539.Count%20the%20Number%20of%20Good%20Subsequences/README_EN.md
 tags:
     - Hash Table
     - Math

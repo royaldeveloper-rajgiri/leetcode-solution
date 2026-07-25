@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3809.Best%20Reachable%20Tower/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3809.Best%20Reachable%20Tower/README_EN.md
 rating: 1358
 source: Biweekly Contest 174 Q1
 tags:

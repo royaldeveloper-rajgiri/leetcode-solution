@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3500-3599/3554.Find%20Category%20Recommendation%20Pairs/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3500-3599/3554.Find%20Category%20Recommendation%20Pairs/README_EN.md
 tags:
     - Database
 ---

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2900-2999/2964.Number%20of%20Divisible%20Triplet%20Sums/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2900-2999/2964.Number%20of%20Divisible%20Triplet%20Sums/README.md
 tags:
     - 数组
     - 哈希表

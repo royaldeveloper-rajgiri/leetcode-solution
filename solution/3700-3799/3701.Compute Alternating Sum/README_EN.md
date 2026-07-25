@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3701.Compute%20Alternating%20Sum/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3701.Compute%20Alternating%20Sum/README_EN.md
 rating: 1228
 source: Weekly Contest 470 Q1
 tags:

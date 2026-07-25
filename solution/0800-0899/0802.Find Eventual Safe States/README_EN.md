@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0800-0899/0802.Find%20Eventual%20Safe%20States/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0800-0899/0802.Find%20Eventual%20Safe%20States/README_EN.md
 tags:
     - Depth-First Search
     - Breadth-First Search

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0600-0699/0643.Maximum%20Average%20Subarray%20I/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0600-0699/0643.Maximum%20Average%20Subarray%20I/README_EN.md
 tags:
     - Array
     - Sliding Window

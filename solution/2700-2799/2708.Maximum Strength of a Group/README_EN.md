@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2700-2799/2708.Maximum%20Strength%20of%20a%20Group/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2700-2799/2708.Maximum%20Strength%20of%20a%20Group/README_EN.md
 rating: 1502
 source: Biweekly Contest 105 Q3
 tags:

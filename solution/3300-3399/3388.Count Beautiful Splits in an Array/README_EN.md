@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3300-3399/3388.Count%20Beautiful%20Splits%20in%20an%20Array/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3300-3399/3388.Count%20Beautiful%20Splits%20in%20an%20Array/README_EN.md
 rating: 2364
 source: Weekly Contest 428 Q3
 tags:

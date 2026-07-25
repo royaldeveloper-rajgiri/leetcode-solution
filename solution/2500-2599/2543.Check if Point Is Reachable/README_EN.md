@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2500-2599/2543.Check%20if%20Point%20Is%20Reachable/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2500-2599/2543.Check%20if%20Point%20Is%20Reachable/README_EN.md
 rating: 2220
 source: Biweekly Contest 96 Q4
 tags:

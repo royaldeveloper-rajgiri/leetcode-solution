@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1600-1699/1695.Maximum%20Erasure%20Value/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1600-1699/1695.Maximum%20Erasure%20Value/README_EN.md
 rating: 1528
 source: Weekly Contest 220 Q2
 tags:

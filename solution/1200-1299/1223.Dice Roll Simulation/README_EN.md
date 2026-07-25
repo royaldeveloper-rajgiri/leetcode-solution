@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1200-1299/1223.Dice%20Roll%20Simulation/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1200-1299/1223.Dice%20Roll%20Simulation/README_EN.md
 rating: 2008
 source: Weekly Contest 158 Q3
 tags:

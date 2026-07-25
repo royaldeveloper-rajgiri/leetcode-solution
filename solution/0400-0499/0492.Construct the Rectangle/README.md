@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0400-0499/0492.Construct%20the%20Rectangle/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0400-0499/0492.Construct%20the%20Rectangle/README.md
 tags:
     - 数学
 ---

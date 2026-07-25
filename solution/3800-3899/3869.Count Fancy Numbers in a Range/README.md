@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3869.Count%20Fancy%20Numbers%20in%20a%20Range/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3869.Count%20Fancy%20Numbers%20in%20a%20Range/README.md
 rating: 2254
 source: 第 178 场双周赛 Q4
 tags:

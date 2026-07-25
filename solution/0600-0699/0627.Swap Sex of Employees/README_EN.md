@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0600-0699/0627.Swap%20Sex%20of%20Employees/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0600-0699/0627.Swap%20Sex%20of%20Employees/README_EN.md
 tags:
     - Database
 ---

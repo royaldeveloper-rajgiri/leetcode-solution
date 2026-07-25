@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3760.Maximum%20Substrings%20With%20Distinct%20Start/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3760.Maximum%20Substrings%20With%20Distinct%20Start/README.md
 rating: 1364
 source: 第 478 场周赛 Q2
 tags:

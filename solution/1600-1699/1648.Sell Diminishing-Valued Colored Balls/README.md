@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1600-1699/1648.Sell%20Diminishing-Valued%20Colored%20Balls/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1600-1699/1648.Sell%20Diminishing-Valued%20Colored%20Balls/README.md
 rating: 2050
 source: 第 214 场周赛 Q3
 tags:

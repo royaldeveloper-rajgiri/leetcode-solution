@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3290.Maximum%20Multiplication%20Score/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3290.Maximum%20Multiplication%20Score/README.md
 rating: 1692
 source: 第 415 场周赛 Q2
 tags:

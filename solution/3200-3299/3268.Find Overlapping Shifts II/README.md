@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3268.Find%20Overlapping%20Shifts%20II/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3268.Find%20Overlapping%20Shifts%20II/README.md
 tags:
     - 数据库
 ---

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3964.Minimum%20Lights%20to%20Illuminate%20a%20Road/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3964.Minimum%20Lights%20to%20Illuminate%20a%20Road/README.md
 rating: 1572
 source: 第 185 场双周赛 Q2
 ---

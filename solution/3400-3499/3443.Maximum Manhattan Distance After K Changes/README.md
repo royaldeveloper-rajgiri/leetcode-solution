@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3400-3499/3443.Maximum%20Manhattan%20Distance%20After%20K%20Changes/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3400-3499/3443.Maximum%20Manhattan%20Distance%20After%20K%20Changes/README.md
 rating: 1855
 source: 第 435 场周赛 Q2
 tags:

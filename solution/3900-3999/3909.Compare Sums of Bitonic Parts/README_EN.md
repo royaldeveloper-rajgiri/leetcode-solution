@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3909.Compare%20Sums%20of%20Bitonic%20Parts/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3909.Compare%20Sums%20of%20Bitonic%20Parts/README_EN.md
 rating: 1408
 source: Biweekly Contest 181 Q2
 ---

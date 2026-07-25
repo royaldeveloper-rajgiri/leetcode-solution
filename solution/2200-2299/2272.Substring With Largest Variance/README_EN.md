@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2200-2299/2272.Substring%20With%20Largest%20Variance/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2200-2299/2272.Substring%20With%20Largest%20Variance/README_EN.md
 rating: 2515
 source: Biweekly Contest 78 Q4
 tags:

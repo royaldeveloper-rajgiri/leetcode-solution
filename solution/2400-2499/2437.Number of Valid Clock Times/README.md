@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2400-2499/2437.Number%20of%20Valid%20Clock%20Times/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2400-2499/2437.Number%20of%20Valid%20Clock%20Times/README.md
 rating: 1426
 source: 第 89 场双周赛 Q1
 tags:

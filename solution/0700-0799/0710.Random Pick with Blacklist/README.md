@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0700-0799/0710.Random%20Pick%20with%20Blacklist/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0700-0799/0710.Random%20Pick%20with%20Blacklist/README.md
 tags:
     - 数组
     - 哈希表

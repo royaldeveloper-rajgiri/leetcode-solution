@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1700-1799/1706.Where%20Will%20the%20Ball%20Fall/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1700-1799/1706.Where%20Will%20the%20Ball%20Fall/README.md
 rating: 1764
 source: 第 221 场周赛 Q3
 tags:

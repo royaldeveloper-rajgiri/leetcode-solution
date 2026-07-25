@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3693.Climbing%20Stairs%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3693.Climbing%20Stairs%20II/README_EN.md
 rating: 1560
 source: Biweekly Contest 166 Q2
 ---

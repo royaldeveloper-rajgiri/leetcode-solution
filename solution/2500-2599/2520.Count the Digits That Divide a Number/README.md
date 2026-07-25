@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2500-2599/2520.Count%20the%20Digits%20That%20Divide%20a%20Number/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2500-2599/2520.Count%20the%20Digits%20That%20Divide%20a%20Number/README.md
 rating: 1260
 source: 第 326 场周赛 Q1
 tags:

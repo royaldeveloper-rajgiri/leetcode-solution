@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2700-2799/2743.Count%20Substrings%20Without%20Repeating%20Character/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2700-2799/2743.Count%20Substrings%20Without%20Repeating%20Character/README_EN.md
 tags:
     - Hash Table
     - String

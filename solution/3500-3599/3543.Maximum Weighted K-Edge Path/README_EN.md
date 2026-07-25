@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3500-3599/3543.Maximum%20Weighted%20K-Edge%20Path/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3500-3599/3543.Maximum%20Weighted%20K-Edge%20Path/README_EN.md
 rating: 2110
 source: Biweekly Contest 156 Q3
 tags:

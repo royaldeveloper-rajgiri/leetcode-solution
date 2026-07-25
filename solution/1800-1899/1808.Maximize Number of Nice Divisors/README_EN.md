@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1800-1899/1808.Maximize%20Number%20of%20Nice%20Divisors/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1800-1899/1808.Maximize%20Number%20of%20Nice%20Divisors/README_EN.md
 rating: 2070
 source: Weekly Contest 234 Q4
 tags:

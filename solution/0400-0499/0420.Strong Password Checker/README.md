@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0400-0499/0420.Strong%20Password%20Checker/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0400-0499/0420.Strong%20Password%20Checker/README.md
 tags:
     - 贪心
     - 字符串

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3400-3499/3435.Frequencies%20of%20Shortest%20Supersequences/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3400-3499/3435.Frequencies%20of%20Shortest%20Supersequences/README_EN.md
 rating: 3027
 source: Weekly Contest 434 Q4
 tags:

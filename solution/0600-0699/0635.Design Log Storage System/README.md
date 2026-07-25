@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0600-0699/0635.Design%20Log%20Storage%20System/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0600-0699/0635.Design%20Log%20Storage%20System/README.md
 tags:
     - 设计
     - 哈希表

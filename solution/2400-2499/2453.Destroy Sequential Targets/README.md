@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2400-2499/2453.Destroy%20Sequential%20Targets/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2400-2499/2453.Destroy%20Sequential%20Targets/README.md
 rating: 1761
 source: 第 90 场双周赛 Q3
 tags:

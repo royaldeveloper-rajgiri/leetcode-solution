@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3220.Odd%20and%20Even%20Transactions/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3220.Odd%20and%20Even%20Transactions/README.md
 tags:
     - 数据库
 ---

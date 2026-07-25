@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3500-3599/3582.Generate%20Tag%20for%20Video%20Caption/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3500-3599/3582.Generate%20Tag%20for%20Video%20Caption/README.md
 rating: 1316
 source: 第 454 场周赛 Q1
 tags:

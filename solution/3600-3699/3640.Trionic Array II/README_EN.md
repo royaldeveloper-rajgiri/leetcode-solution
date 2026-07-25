@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3640.Trionic%20Array%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3640.Trionic%20Array%20II/README_EN.md
 rating: 2277
 source: Weekly Contest 461 Q4
 tags:

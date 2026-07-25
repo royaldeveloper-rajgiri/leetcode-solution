@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3926.Count%20Valid%20Word%20Occurrences/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3926.Count%20Valid%20Word%20Occurrences/README.md
 rating: 1608
 source: 第 501 场周赛 Q2
 ---

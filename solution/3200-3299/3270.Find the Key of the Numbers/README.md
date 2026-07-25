@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3270.Find%20the%20Key%20of%20the%20Numbers/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3270.Find%20the%20Key%20of%20the%20Numbers/README.md
 rating: 1205
 source: 第 138 场双周赛 Q1
 tags:

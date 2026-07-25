@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1700-1799/1709.Biggest%20Window%20Between%20Visits/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1700-1799/1709.Biggest%20Window%20Between%20Visits/README_EN.md
 tags:
     - Database
 ---

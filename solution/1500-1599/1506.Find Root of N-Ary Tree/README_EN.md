@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1500-1599/1506.Find%20Root%20of%20N-Ary%20Tree/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1500-1599/1506.Find%20Root%20of%20N-Ary%20Tree/README_EN.md
 tags:
     - Bit Manipulation
     - Tree

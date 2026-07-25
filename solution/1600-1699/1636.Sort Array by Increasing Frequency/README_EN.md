@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1600-1699/1636.Sort%20Array%20by%20Increasing%20Frequency/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1600-1699/1636.Sort%20Array%20by%20Increasing%20Frequency/README_EN.md
 rating: 1430
 source: Biweekly Contest 38 Q1
 tags:

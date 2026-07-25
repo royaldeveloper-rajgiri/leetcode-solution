@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3300-3399/3366.Minimum%20Array%20Sum/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3300-3399/3366.Minimum%20Array%20Sum/README_EN.md
 rating: 2040
 source: Weekly Contest 425 Q3
 tags:

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2700-2799/2733.Neither%20Minimum%20nor%20Maximum/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2700-2799/2733.Neither%20Minimum%20nor%20Maximum/README.md
 rating: 1147
 source: 第 349 场周赛 Q1
 tags:

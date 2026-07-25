@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1100-1199/1112.Highest%20Grade%20For%20Each%20Student/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1100-1199/1112.Highest%20Grade%20For%20Each%20Student/README_EN.md
 tags:
     - Database
 ---

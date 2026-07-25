@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1000-1099/1097.Game%20Play%20Analysis%20V/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1000-1099/1097.Game%20Play%20Analysis%20V/README.md
 tags:
     - 数据库
 ---

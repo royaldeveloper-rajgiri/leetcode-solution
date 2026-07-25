@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1400-1499/1487.Making%20File%20Names%20Unique/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1400-1499/1487.Making%20File%20Names%20Unique/README_EN.md
 rating: 1696
 source: Weekly Contest 194 Q2
 tags:

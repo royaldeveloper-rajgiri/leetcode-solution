@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2600-2699/2699.Modify%20Graph%20Edge%20Weights/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2600-2699/2699.Modify%20Graph%20Edge%20Weights/README.md
 rating: 2873
 source: 第 346 场周赛 Q4
 tags:

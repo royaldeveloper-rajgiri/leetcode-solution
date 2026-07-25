@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3686.Number%20of%20Stable%20Subsequences/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3686.Number%20of%20Stable%20Subsequences/README_EN.md
 rating: 1969
 source: Weekly Contest 467 Q4
 tags:

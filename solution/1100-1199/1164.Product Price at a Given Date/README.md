@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1100-1199/1164.Product%20Price%20at%20a%20Given%20Date/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1100-1199/1164.Product%20Price%20at%20a%20Given%20Date/README.md
 tags:
     - 数据库
 ---

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3241.Time%20Taken%20to%20Mark%20All%20Nodes/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3241.Time%20Taken%20to%20Mark%20All%20Nodes/README.md
 rating: 2521
 source: 第 136 场双周赛 Q4
 tags:

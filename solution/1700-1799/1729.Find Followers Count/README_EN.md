@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1700-1799/1729.Find%20Followers%20Count/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1700-1799/1729.Find%20Followers%20Count/README_EN.md
 tags:
     - Database
 ---

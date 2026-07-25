@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3985.Palindromic%20Subarray%20Sum/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3985.Palindromic%20Subarray%20Sum/README_EN.md
 rating: 2201
 source: Weekly Contest 509 Q4
 ---

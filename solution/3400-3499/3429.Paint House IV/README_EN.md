@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3400-3499/3429.Paint%20House%20IV/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3400-3499/3429.Paint%20House%20IV/README_EN.md
 rating: 2165
 source: Weekly Contest 433 Q3
 tags:

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2300-2399/2377.Sort%20the%20Olympic%20Table/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2300-2399/2377.Sort%20the%20Olympic%20Table/README.md
 tags:
     - 数据库
 ---

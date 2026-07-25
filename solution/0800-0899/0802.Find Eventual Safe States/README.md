@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0800-0899/0802.Find%20Eventual%20Safe%20States/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0800-0899/0802.Find%20Eventual%20Safe%20States/README.md
 tags:
     - 深度优先搜索
     - 广度优先搜索

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3899.Angles%20of%20a%20Triangle/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3899.Angles%20of%20a%20Triangle/README.md
 rating: 1407
 source: 第 497 场周赛 Q2
 tags:

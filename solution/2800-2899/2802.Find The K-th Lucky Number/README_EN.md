@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2800-2899/2802.Find%20The%20K-th%20Lucky%20Number/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2800-2899/2802.Find%20The%20K-th%20Lucky%20Number/README_EN.md
 tags:
     - Bit Manipulation
     - Math

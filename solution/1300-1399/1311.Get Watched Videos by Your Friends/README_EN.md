@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1300-1399/1311.Get%20Watched%20Videos%20by%20Your%20Friends/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1300-1399/1311.Get%20Watched%20Videos%20by%20Your%20Friends/README_EN.md
 rating: 1652
 source: Weekly Contest 170 Q3
 tags:

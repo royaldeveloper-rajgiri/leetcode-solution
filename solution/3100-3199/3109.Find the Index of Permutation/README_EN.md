@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3100-3199/3109.Find%20the%20Index%20of%20Permutation/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3100-3199/3109.Find%20the%20Index%20of%20Permutation/README_EN.md
 tags:
     - Binary Indexed Tree
     - Segment Tree

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3949.Subtree%20Inversion%20Sum%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3949.Subtree%20Inversion%20Sum%20II/README_EN.md
 tags:
     - Tree
     - Depth-First Search

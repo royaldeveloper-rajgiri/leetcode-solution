@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3783.Mirror%20Distance%20of%20an%20Integer/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3783.Mirror%20Distance%20of%20an%20Integer/README_EN.md
 rating: 1170
 source: Weekly Contest 481 Q1
 tags:

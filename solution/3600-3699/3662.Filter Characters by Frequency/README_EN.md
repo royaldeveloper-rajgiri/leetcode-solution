@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3662.Filter%20Characters%20by%20Frequency/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3662.Filter%20Characters%20by%20Frequency/README_EN.md
 tags:
     - Hash Table
     - String

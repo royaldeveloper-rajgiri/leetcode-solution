@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0400-0499/0406.Queue%20Reconstruction%20by%20Height/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0400-0499/0406.Queue%20Reconstruction%20by%20Height/README.md
 tags:
     - 树状数组
     - 线段树

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0300-0399/0346.Moving%20Average%20from%20Data%20Stream/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0300-0399/0346.Moving%20Average%20from%20Data%20Stream/README_EN.md
 tags:
     - Design
     - Queue

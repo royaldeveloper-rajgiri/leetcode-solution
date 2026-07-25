@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3674.Minimum%20Operations%20to%20Equalize%20Array/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3674.Minimum%20Operations%20to%20Equalize%20Array/README.md
 rating: 1369
 source: 第 466 场周赛 Q1
 tags:

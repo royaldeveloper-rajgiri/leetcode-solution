@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3705.Find%20Golden%20Hour%20Customers/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3705.Find%20Golden%20Hour%20Customers/README.md
 tags:
     - 数据库
 ---

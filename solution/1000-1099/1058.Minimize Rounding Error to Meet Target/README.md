@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1000-1099/1058.Minimize%20Rounding%20Error%20to%20Meet%20Target/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1000-1099/1058.Minimize%20Rounding%20Error%20to%20Meet%20Target/README.md
 tags:
     - 贪心
     - 数组

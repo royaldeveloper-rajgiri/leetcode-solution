@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2400-2499/2453.Destroy%20Sequential%20Targets/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2400-2499/2453.Destroy%20Sequential%20Targets/README_EN.md
 rating: 1761
 source: Biweekly Contest 90 Q3
 tags:

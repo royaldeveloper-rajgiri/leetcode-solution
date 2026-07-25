@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1000-1099/1092.Shortest%20Common%20Supersequence/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1000-1099/1092.Shortest%20Common%20Supersequence/README.md
 rating: 1976
 source: 第 141 场周赛 Q4
 tags:

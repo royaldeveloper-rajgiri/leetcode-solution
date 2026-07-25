@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3878.Count%20Good%20Subarrays/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3878.Count%20Good%20Subarrays/README_EN.md
 rating: 2230
 source: Weekly Contest 494 Q4
 tags:

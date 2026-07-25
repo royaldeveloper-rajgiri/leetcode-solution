@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1500-1599/1533.Find%20the%20Index%20of%20the%20Large%20Integer/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1500-1599/1533.Find%20the%20Index%20of%20the%20Large%20Integer/README_EN.md
 tags:
     - Array
     - Binary Search

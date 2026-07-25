@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0600-0699/0668.Kth%20Smallest%20Number%20in%20Multiplication%20Table/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0600-0699/0668.Kth%20Smallest%20Number%20in%20Multiplication%20Table/README.md
 tags:
     - 数学
     - 二分查找

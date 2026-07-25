@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3815.Design%20Auction%20System/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3815.Design%20Auction%20System/README.md
 rating: 1853
 source: 第 485 场周赛 Q3
 ---

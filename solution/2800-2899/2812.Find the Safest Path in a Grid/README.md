@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2800-2899/2812.Find%20the%20Safest%20Path%20in%20a%20Grid/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2800-2899/2812.Find%20the%20Safest%20Path%20in%20a%20Grid/README.md
 rating: 2153
 source: 第 357 场周赛 Q3
 tags:

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3739.Count%20Subarrays%20With%20Majority%20Element%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3739.Count%20Subarrays%20With%20Majority%20Element%20II/README_EN.md
 rating: 2089
 source: Biweekly Contest 169 Q4
 tags:

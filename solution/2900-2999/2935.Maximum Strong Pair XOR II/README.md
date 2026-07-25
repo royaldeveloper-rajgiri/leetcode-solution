@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2900-2999/2935.Maximum%20Strong%20Pair%20XOR%20II/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2900-2999/2935.Maximum%20Strong%20Pair%20XOR%20II/README.md
 rating: 2348
 source: 第 371 场周赛 Q4
 tags:

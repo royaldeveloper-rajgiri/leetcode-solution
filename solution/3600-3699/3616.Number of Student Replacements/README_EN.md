@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3616.Number%20of%20Student%20Replacements/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3616.Number%20of%20Student%20Replacements/README_EN.md
 tags:
     - Array
     - Simulation

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3710.Maximum%20Partition%20Factor/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3710.Maximum%20Partition%20Factor/README.md
 rating: 2135
 source: 第 167 场双周赛 Q4
 tags:

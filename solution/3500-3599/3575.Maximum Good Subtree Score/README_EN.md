@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3500-3599/3575.Maximum%20Good%20Subtree%20Score/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3500-3599/3575.Maximum%20Good%20Subtree%20Score/README_EN.md
 rating: 2359
 source: Biweekly Contest 158 Q4
 tags:

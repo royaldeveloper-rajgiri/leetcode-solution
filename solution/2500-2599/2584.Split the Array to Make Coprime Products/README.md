@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2500-2599/2584.Split%20the%20Array%20to%20Make%20Coprime%20Products/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2500-2599/2584.Split%20the%20Array%20to%20Make%20Coprime%20Products/README.md
 rating: 2159
 source: 第 335 场周赛 Q3
 tags:

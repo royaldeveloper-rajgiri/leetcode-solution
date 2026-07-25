@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1100-1199/1174.Immediate%20Food%20Delivery%20II/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1100-1199/1174.Immediate%20Food%20Delivery%20II/README.md
 tags:
     - 数据库
 ---

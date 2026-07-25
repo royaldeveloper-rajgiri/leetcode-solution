@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1900-1999/1902.Depth%20of%20BST%20Given%20Insertion%20Order/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1900-1999/1902.Depth%20of%20BST%20Given%20Insertion%20Order/README.md
 tags:
     - 树
     - 二叉搜索树

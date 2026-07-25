@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3866.First%20Unique%20Even%20Element/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3866.First%20Unique%20Even%20Element/README_EN.md
 rating: 1209
 source: Biweekly Contest 178 Q1
 tags:

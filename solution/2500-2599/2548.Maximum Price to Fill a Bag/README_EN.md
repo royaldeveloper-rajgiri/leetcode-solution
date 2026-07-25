@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2500-2599/2548.Maximum%20Price%20to%20Fill%20a%20Bag/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2500-2599/2548.Maximum%20Price%20to%20Fill%20a%20Bag/README_EN.md
 tags:
     - Greedy
     - Array

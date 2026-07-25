@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3400-3499/3490.Count%20Beautiful%20Numbers/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3400-3499/3490.Count%20Beautiful%20Numbers/README.md
 rating: 2502
 source: 第 441 场周赛 Q4
 tags:

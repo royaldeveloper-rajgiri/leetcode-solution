@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1200-1299/1270.All%20People%20Report%20to%20the%20Given%20Manager/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1200-1299/1270.All%20People%20Report%20to%20the%20Given%20Manager/README.md
 tags:
     - 数据库
 ---

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2100-2199/2172.Maximum%20AND%20Sum%20of%20Array/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2100-2199/2172.Maximum%20AND%20Sum%20of%20Array/README_EN.md
 rating: 2392
 source: Weekly Contest 280 Q4
 tags:

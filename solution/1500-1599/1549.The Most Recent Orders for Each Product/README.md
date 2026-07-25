@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1500-1599/1549.The%20Most%20Recent%20Orders%20for%20Each%20Product/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1500-1599/1549.The%20Most%20Recent%20Orders%20for%20Each%20Product/README.md
 tags:
     - 数据库
 ---

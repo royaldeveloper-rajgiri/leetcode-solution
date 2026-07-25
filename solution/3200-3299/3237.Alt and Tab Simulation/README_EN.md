@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3237.Alt%20and%20Tab%20Simulation/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3237.Alt%20and%20Tab%20Simulation/README_EN.md
 tags:
     - Array
     - Hash Table

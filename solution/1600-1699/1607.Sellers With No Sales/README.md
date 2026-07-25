@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1600-1699/1607.Sellers%20With%20No%20Sales/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1600-1699/1607.Sellers%20With%20No%20Sales/README.md
 tags:
     - 数据库
 ---

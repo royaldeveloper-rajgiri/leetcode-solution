@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2900-2999/2928.Distribute%20Candies%20Among%20Children%20I/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2900-2999/2928.Distribute%20Candies%20Among%20Children%20I/README_EN.md
 rating: 1393
 source: Biweekly Contest 117 Q1
 tags:

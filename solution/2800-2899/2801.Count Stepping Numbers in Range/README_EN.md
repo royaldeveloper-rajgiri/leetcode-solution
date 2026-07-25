@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2800-2899/2801.Count%20Stepping%20Numbers%20in%20Range/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2800-2899/2801.Count%20Stepping%20Numbers%20in%20Range/README_EN.md
 rating: 2367
 source: Weekly Contest 356 Q4
 tags:

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3932.Count%20K-th%20Roots%20in%20a%20Range/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3932.Count%20K-th%20Roots%20in%20a%20Range/README_EN.md
 rating: 1548
 source: Weekly Contest 502 Q2
 tags:

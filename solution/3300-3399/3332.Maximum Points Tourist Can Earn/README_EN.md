@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3300-3399/3332.Maximum%20Points%20Tourist%20Can%20Earn/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3300-3399/3332.Maximum%20Points%20Tourist%20Can%20Earn/README_EN.md
 rating: 1827
 source: Biweekly Contest 142 Q3
 tags:

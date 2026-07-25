@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3679.Minimum%20Discards%20to%20Balance%20Inventory/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3679.Minimum%20Discards%20to%20Balance%20Inventory/README.md
 rating: 1638
 source: 第 165 场双周赛 Q2
 tags:

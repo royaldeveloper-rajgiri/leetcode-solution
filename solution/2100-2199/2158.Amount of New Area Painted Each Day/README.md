@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2100-2199/2158.Amount%20of%20New%20Area%20Painted%20Each%20Day/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2100-2199/2158.Amount%20of%20New%20Area%20Painted%20Each%20Day/README.md
 tags:
     - 线段树
     - 数组

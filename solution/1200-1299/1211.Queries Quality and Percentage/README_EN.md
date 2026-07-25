@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1200-1299/1211.Queries%20Quality%20and%20Percentage/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1200-1299/1211.Queries%20Quality%20and%20Percentage/README_EN.md
 tags:
     - Database
 ---

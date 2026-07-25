@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3100-3199/3163.String%20Compression%20III/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3100-3199/3163.String%20Compression%20III/README_EN.md
 rating: 1311
 source: Weekly Contest 399 Q2
 tags:

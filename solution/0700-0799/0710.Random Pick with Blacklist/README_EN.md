@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0700-0799/0710.Random%20Pick%20with%20Blacklist/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0700-0799/0710.Random%20Pick%20with%20Blacklist/README_EN.md
 tags:
     - Array
     - Hash Table

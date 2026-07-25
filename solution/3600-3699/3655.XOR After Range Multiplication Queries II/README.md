@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3655.XOR%20After%20Range%20Multiplication%20Queries%20II/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3655.XOR%20After%20Range%20Multiplication%20Queries%20II/README.md
 rating: 2453
 source: 第 463 场周赛 Q4
 tags:

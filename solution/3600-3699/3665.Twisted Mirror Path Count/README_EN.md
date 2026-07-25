@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3665.Twisted%20Mirror%20Path%20Count/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3665.Twisted%20Mirror%20Path%20Count/README_EN.md
 rating: 1883
 source: Biweekly Contest 164 Q3
 tags:

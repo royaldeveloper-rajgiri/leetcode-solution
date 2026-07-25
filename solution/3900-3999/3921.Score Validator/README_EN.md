@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3921.Score%20Validator/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3921.Score%20Validator/README_EN.md
 rating: 1262
 source: Biweekly Contest 182 Q1
 ---

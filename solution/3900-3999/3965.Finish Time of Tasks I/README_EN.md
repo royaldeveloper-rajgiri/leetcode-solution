@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3965.Finish%20Time%20of%20Tasks%20I/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3965.Finish%20Time%20of%20Tasks%20I/README_EN.md
 rating: 1698
 source: Biweekly Contest 185 Q3
 ---

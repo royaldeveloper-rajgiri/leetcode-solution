@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 简单
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2100-2199/2180.Count%20Integers%20With%20Even%20Digit%20Sum/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2100-2199/2180.Count%20Integers%20With%20Even%20Digit%20Sum/README.md
 rating: 1257
 source: 第 281 场周赛 Q1
 tags:

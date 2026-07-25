@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3790.Smallest%20All-Ones%20Multiple/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3790.Smallest%20All-Ones%20Multiple/README_EN.md
 rating: 1593
 source: Weekly Contest 482 Q3
 tags:

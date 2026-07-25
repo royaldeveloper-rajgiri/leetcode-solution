@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0700-0799/0775.Global%20and%20Local%20Inversions/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0700-0799/0775.Global%20and%20Local%20Inversions/README_EN.md
 tags:
     - Array
     - Math

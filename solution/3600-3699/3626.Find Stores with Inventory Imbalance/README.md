@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3626.Find%20Stores%20with%20Inventory%20Imbalance/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3626.Find%20Stores%20with%20Inventory%20Imbalance/README.md
 tags:
     - 数据库
 ---

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0200-0299/0209.Minimum%20Size%20Subarray%20Sum/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0200-0299/0209.Minimum%20Size%20Subarray%20Sum/README_EN.md
 tags:
     - Array
     - Binary Search

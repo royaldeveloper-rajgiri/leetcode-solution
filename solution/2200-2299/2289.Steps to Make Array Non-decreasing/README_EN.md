@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/2200-2299/2289.Steps%20to%20Make%20Array%20Non-decreasing/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/2200-2299/2289.Steps%20to%20Make%20Array%20Non-decreasing/README_EN.md
 rating: 2481
 source: Weekly Contest 295 Q3
 tags:

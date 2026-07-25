@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 困难
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0900-0999/0992.Subarrays%20with%20K%20Different%20Integers/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0900-0999/0992.Subarrays%20with%20K%20Different%20Integers/README.md
 tags:
     - 数组
     - 哈希表

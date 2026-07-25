@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3600-3699/3679.Minimum%20Discards%20to%20Balance%20Inventory/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3600-3699/3679.Minimum%20Discards%20to%20Balance%20Inventory/README_EN.md
 rating: 1638
 source: Biweekly Contest 165 Q2
 tags:

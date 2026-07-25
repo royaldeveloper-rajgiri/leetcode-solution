@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3400-3499/3429.Paint%20House%20IV/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3400-3499/3429.Paint%20House%20IV/README.md
 rating: 2165
 source: 第 433 场周赛 Q3
 tags:

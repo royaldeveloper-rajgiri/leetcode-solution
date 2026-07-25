@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3802.Number%20of%20Ways%20to%20Paint%20Sheets/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3802.Number%20of%20Ways%20to%20Paint%20Sheets/README_EN.md
 ---
 
 <!-- problem:start -->

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3700-3799/3716.Find%20Churn%20Risk%20Customers/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3700-3799/3716.Find%20Churn%20Risk%20Customers/README_EN.md
 tags:
     - Database
 ---

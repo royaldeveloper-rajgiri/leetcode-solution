@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3400-3499/3476.Maximize%20Profit%20from%20Task%20Assignment/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3400-3499/3476.Maximize%20Profit%20from%20Task%20Assignment/README.md
 tags:
     - 贪心
     - 数组

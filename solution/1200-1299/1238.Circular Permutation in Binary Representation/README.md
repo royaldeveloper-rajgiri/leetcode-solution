@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1200-1299/1238.Circular%20Permutation%20in%20Binary%20Representation/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1200-1299/1238.Circular%20Permutation%20in%20Binary%20Representation/README.md
 rating: 1774
 source: 第 160 场周赛 Q2
 tags:

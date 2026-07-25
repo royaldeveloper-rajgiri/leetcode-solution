@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3500-3599/3590.Kth%20Smallest%20Path%20XOR%20Sum/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3500-3599/3590.Kth%20Smallest%20Path%20XOR%20Sum/README_EN.md
 rating: 2645
 source: Biweekly Contest 159 Q4
 tags:

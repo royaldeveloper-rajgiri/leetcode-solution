@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Easy
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3200-3299/3280.Convert%20Date%20to%20Binary/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3200-3299/3280.Convert%20Date%20to%20Binary/README_EN.md
 rating: 1205
 source: Weekly Contest 414 Q1
 tags:

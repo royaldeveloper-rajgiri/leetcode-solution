@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3100-3199/3103.Find%20Trending%20Hashtags%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3100-3199/3103.Find%20Trending%20Hashtags%20II/README_EN.md
 tags:
     - Database
 ---

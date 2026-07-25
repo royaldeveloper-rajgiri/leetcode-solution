@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/1900-1999/1990.Count%20the%20Number%20of%20Experiments/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/1900-1999/1990.Count%20the%20Number%20of%20Experiments/README.md
 tags:
     - 数据库
 ---

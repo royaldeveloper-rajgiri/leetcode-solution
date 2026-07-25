@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Medium
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3800-3899/3876.Construct%20Uniform%20Parity%20Array%20II/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3800-3899/3876.Construct%20Uniform%20Parity%20Array%20II/README_EN.md
 rating: 1443
 source: Weekly Contest 494 Q2
 tags:

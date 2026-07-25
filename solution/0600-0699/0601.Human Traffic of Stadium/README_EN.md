@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/0600-0699/0601.Human%20Traffic%20of%20Stadium/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/0600-0699/0601.Human%20Traffic%20of%20Stadium/README_EN.md
 tags:
     - Database
 ---

@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: Hard
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3900-3999/3916.Number%20of%20ZigZag%20Arrays%20III/README_EN.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3900-3999/3916.Number%20of%20ZigZag%20Arrays%20III/README_EN.md
 tags:
     - Math
     - Dynamic Programming

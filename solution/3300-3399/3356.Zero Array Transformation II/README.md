@@ -1,7 +1,7 @@
 ---
 comments: true
 difficulty: 中等
-edit_url: https://github.com/doocs/leetcode/edit/main/solution/3300-3399/3356.Zero%20Array%20Transformation%20II/README.md
+edit_url: https://github.com/royaldeveloper-rajgiri/leetcode-solution/tree/main/solution/3300-3399/3356.Zero%20Array%20Transformation%20II/README.md
 rating: 1913
 source: 第 424 场周赛 Q3
 tags:
