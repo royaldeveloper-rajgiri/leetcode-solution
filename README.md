@@ -183,55 +183,29 @@ https://leetcode.doocs.org/en
 - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](/solution/1400-1499/1489.Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree/README_EN.md) - `Minimum Spanning Tree`, `Kruskal's algorithm`, `Union find`
 - [Is Graph Bipartite?](/solution/0700-0799/0785.Is%20Graph%20Bipartite/README_EN.md) - `Graph coloring`, `Union find`
 
-## Contributions
+## 📜 Copyright
 
-I'm looking for long-term contributors/partners to this repo! Send me [PRs](https://github.com/doocs/leetcode/pulls) if you're interested! See the following:
+© 2026 Royal Raj Giri. All rights reserved.
 
-1. Fork [this repository](https://github.com/doocs/leetcode) to your own GitHub account and then clone it to your local machine.
-1. Checkout a new branch.
-1. Make some changes to your leetcode repository, then push the changes to your remote GitHub repository.
-1. Create a pull request with your changes!
-1. See [CONTRIBUTING](https://github.com/doocs/.github/blob/main/CONTRIBUTING.md) or [GitHub Help](https://help.github.com/en) for more details.
+Unless otherwise stated, all source code, documentation, explanations, and original content in this repository are created and maintained by **Royal Raj Giri**.
 
-<div align="center">
-  <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/leetcode%40main/images/pr-en.svg" width="320px"/>
-</div>
+This repository is intended for educational and learning purposes. If you use or reference any part of this project, appropriate attribution is appreciated.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=149001365&machine=basicLinux32gb&location=EastUs)
+---
 
-## Stargazers over time
+## 🤝 Contact
 
-<a href="https://github.com/doocs/leetcode/stargazers" target="_blank"><img src="./images/starcharts.svg" alt="Stargazers over time" /></a>
+If you have any questions, suggestions, or would like to collaborate, feel free to reach out.
 
-<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=149001365&activity=stars" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=149001365&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Star Geographical Distribution of doocs/leetcode" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=149001365&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
-  </picture>
-</a>
+- **GitHub:** https://github.com/royaldeveloper-rajgiri
+- **Email:** rajgiriindia@gmail.com
 
-## Our Top Contributors
+If you find this repository helpful, consider giving it a ⭐ to support the project.
 
-This project exists thanks to all the people who contribute.
+---
 
-<a href="https://github.com/doocs/leetcode/graphs/contributors" target="_blank"><img src="https://contrib.rocks/image?repo=doocs/leetcode&max=500" /></a>
+## 📄 License
 
-## Copyright
+This project is licensed under the **MIT License**.
 
-The copyright of this project belongs to [Doocs](https://github.com/doocs) community. For commercial reprints, please contact [@yanglbme](mailto:contact@yanglibin.info) for authorization. For non-commercial reprints, please indicate the source.
-
-## Support Us
-
-If you find this project helpful, consider supporting us by buying us a coffee ☕️
-👉 [https://paypal.me/yanglbme](https://paypal.me/yanglbme)
-
-## Contact Us
-
-We welcome everyone to add @yanglbme's personal WeChat (WeChat ID: YLB0109), with the note "leetcode". In the future, we will create algorithm and technology related discussion groups, where we can learn and share experiences together, and make progress together.
-
-| <img src="https://cdn-doocs.oss-cn-shenzhen.aliyuncs.com/gh/doocs/images/qrcode-for-yanglbme-en.png" width="260px" align="left"/> |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-
-## License
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+See the [LICENSE](https://github.com/royaldeveloper-rajgiri/leetcode-solution/blob/main/LICENSE) file for the complete license text.
