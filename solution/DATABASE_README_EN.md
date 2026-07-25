@@ -356,6 +356,3 @@ If you find this repository helpful, consider giving it a ⭐ to support the pro
 This project is licensed under the **MIT License**.
 
 See the [LICENSE](https://github.com/royaldeveloper-rajgiri/leetcode-solution/blob/main/LICENSE) file for the complete license text.
-## License
-
-This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
