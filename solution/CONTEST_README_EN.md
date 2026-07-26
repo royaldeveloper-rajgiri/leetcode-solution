@@ -20,6 +20,12 @@ If you are in the top 25% of the contest rating, you’ll get the “Knight” b
 For top 10 users (excluding LCCN users), your LeetCode ID will be colored orange on the ranking board. You'll also have the honor with you when you post/comment under discuss.
 
 ## Past Contests
+#### Weekly Contest 512
+
+- [4000. Largest Integer With Given Digit Sum](/solution/4000-4099/4000.Largest%20Integer%20With%20Given%20Digit%20Sum/README_EN.md)
+- [4001. Aggregate Two Time Series](/solution/4000-4099/4001.Aggregate%20Two%20Time%20Series/README_EN.md)
+- [4002. Count Valid Sequences](/solution/4000-4099/4002.Count%20Valid%20Sequences/README_EN.md)
+- [4003. Minimum Cost Path with Alternating Directions III](/solution/4000-4099/4003.Minimum%20Cost%20Path%20with%20Alternating%20Directions%20III/README_EN.md)
 
 #### Weekly Contest 511
 
