@@ -1,4 +1,3 @@
-c
 <p align="center">
   <img src="https://leetcode.com/_next/static/images/Cup-d223fc8ae094b40ae00265a1f99b489f.png" alt="LeetCode Solutions by Royal Raj Giri" width="100%">
 </p>
